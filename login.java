@@ -8,8 +8,8 @@ class PrintLN {
 	{ 
 
 		// Declaring different datatypes 
-		int num = 10; 
-		int num = 20; 
+		int num = 1000; 
+		int num = 2000; 
 		char ch = 'G'; 
 		String str = "GeeksforGeeks"; 
 		double d = 10.2; 
