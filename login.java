@@ -10,6 +10,7 @@ class PrintLN {
 		// Declaring different datatypes 
 		int num = 100; 
 		int num = 200; 
+
 		char ch = 'G'; 
 		String str = "GeeksforGeeks"; 
 		double d = 10.2; 
