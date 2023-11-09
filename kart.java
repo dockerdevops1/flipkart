@@ -8,7 +8,7 @@ class GFG {
 	{ 
 
 		// Declaring variable 
-		int num1 = 10, num2 = 20, sum; 
+		int num1 = 110, num2 = 3000, sum; 
 
 		// Printing the variables 
 		System.out.print("The addition of "); 
